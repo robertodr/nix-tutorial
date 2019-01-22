@@ -8,6 +8,9 @@ class: background
 
 ## Nix tutorial
 
+.footnote[[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) licensed.
+Browse slides at [tinyurl.com/nix-tutorial](https://tinyurl.com/nix-tutorial)]
+
 ---
 layout: false
 
@@ -152,6 +155,10 @@ name: last-page
 template: inverse
 
 Slideshow created using [remark] and served using [cicero]
+
+Slides available on [GitHub](https://github.com/robertodr/nix-tutorial)
+
+Browse slides at [http://tinyurl.com/nix-tutorial](http://tinyurl.com/nix-tutorial)
 
 [remark]: https://github.com/gnab/remark
 [cicero]: https://github.com/bast/cicero
